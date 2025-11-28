@@ -66,4 +66,3 @@ This Power BI dashboard provides an analytical view of bank loan distribution, r
 
 ---
 
-## 📂 Project Structure
